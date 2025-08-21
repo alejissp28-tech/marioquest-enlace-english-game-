@@ -1,7 +1,7 @@
 # marioquest-enlace-english-game-
 ENGLISH GAME TOPICS 
-<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPEindex.html>
+<index.html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,4 +39,4 @@ ENGLISH GAME TOPICS
   <h1>Jugar a Mario Quest</h1>
   <a href="https://marioquest.com" target="_blank">Entrar al Juego</a>
 </body>
-</html>
+</index.html>
